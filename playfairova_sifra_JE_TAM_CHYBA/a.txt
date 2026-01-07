@@ -1,0 +1,22 @@
+
+heslo "playfair" a nasledna tabulka k nemu
+
+ p l a y i
+ f r b c d
+ e g h j k
+ m n o s t
+ u v w x z
+ 
+ text
+ tohlechcisvemlidemutajit
+ 
+ 
+moje tabulka ale spatna
+
+p l a y f
+i r b c d
+e g h j k
+m n o s t
+u v w x z 
+ 
+ 

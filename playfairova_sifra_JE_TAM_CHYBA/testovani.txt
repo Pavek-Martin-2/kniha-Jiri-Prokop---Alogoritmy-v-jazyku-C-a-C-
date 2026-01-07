@@ -1,0 +1,113 @@
+zadej heslo (6-20 znaku)
+abc
+delka zadaneho hesla = 3
+vysledny ctverec 5x5
+abcde
+fghij
+klmno
+prstu
+vwxyz
+vysledek sifrovani:
+ungmedmhfyucnmnicouuefny
+vysledek desifrovani:
+tohldchcivsemlidemttajit
+Press any key to continue . . .
+
+
+zadej heslo (6-20 znaku)
+cba
+delka zadaneho hesla = 3
+vysledny ctverec 5x5
+cbade
+fghij
+klmno
+prstu
+vwxyz
+vysledek sifrovani:
+ungmebfafyuanmniaouuehny
+vysledek desifrovani:
+tohldchcivsemlidemttajit
+Press any key to continue . . .
+
+
+zadej heslo (6-20 znaku)
+prdel
+delka zadaneho hesla = 5
+vysledny ctverec 5x5
+prdel
+abcfg
+hijkm
+nostu
+vwxyz
+vysledek sifrovani:
+usmpdfjahwtdugjrlkuuchko
+vysledek desifrovani:
+tohlechcivsemlidemttajit
+Press any key to continue . . .
+
+zadej heslo (6-20 znaku)
+dnesjesobota
+delka zadaneho hesla = 12
+vysledny ctverec 5x5
+dnesj
+sobta
+cfghi
+klmpr
+uvwxy
+vysledek sifrovani:
+abfpdgiffybdpmcjbwxsiaha
+vysledek desifrovani:
+tohlechcivsemlidemutajit
+Press any key to continue . . .
+
+
+zadej heslo (6-20 znaku)
+kkk
+delka zadaneho hesla = 3
+
+sifrovat se bude text:
+tohlechcivsemlidemutajit
+
+vysledny ctverec 5x5
+kabcd
+efghi
+jlmno
+pqrst
+uvwxy
+
+vysledek sifrovani:
+ytfnhknhfyphnmoigjypkloy
+
+vysledek desifrovani:
+tohlechcivsemlidemutajit
+
+Press any key to continue . . .
+
+ungmedmhfyucnmnicouuefny
+ungmebfafyuanmniaouuehny
+usmpdfjahwtdugjrlkuuchko
+abfpdgiffybdpmcjbwxsiaha
+
+
+tohlechcivsemlidemutajit
+tohlechcivsemlwnemutajwe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
